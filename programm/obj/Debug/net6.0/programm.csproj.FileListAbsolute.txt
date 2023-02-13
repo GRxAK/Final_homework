@@ -1,0 +1,15 @@
+D:\main\studies\13.02.2023\Final_homework\programm\bin\Debug\net6.0\programm.exe
+D:\main\studies\13.02.2023\Final_homework\programm\bin\Debug\net6.0\programm.deps.json
+D:\main\studies\13.02.2023\Final_homework\programm\bin\Debug\net6.0\programm.runtimeconfig.json
+D:\main\studies\13.02.2023\Final_homework\programm\bin\Debug\net6.0\programm.dll
+D:\main\studies\13.02.2023\Final_homework\programm\bin\Debug\net6.0\programm.pdb
+D:\main\studies\13.02.2023\Final_homework\programm\obj\Debug\net6.0\programm.csproj.AssemblyReference.cache
+D:\main\studies\13.02.2023\Final_homework\programm\obj\Debug\net6.0\programm.GeneratedMSBuildEditorConfig.editorconfig
+D:\main\studies\13.02.2023\Final_homework\programm\obj\Debug\net6.0\programm.AssemblyInfoInputs.cache
+D:\main\studies\13.02.2023\Final_homework\programm\obj\Debug\net6.0\programm.AssemblyInfo.cs
+D:\main\studies\13.02.2023\Final_homework\programm\obj\Debug\net6.0\programm.csproj.CoreCompileInputs.cache
+D:\main\studies\13.02.2023\Final_homework\programm\obj\Debug\net6.0\programm.dll
+D:\main\studies\13.02.2023\Final_homework\programm\obj\Debug\net6.0\refint\programm.dll
+D:\main\studies\13.02.2023\Final_homework\programm\obj\Debug\net6.0\programm.pdb
+D:\main\studies\13.02.2023\Final_homework\programm\obj\Debug\net6.0\programm.genruntimeconfig.cache
+D:\main\studies\13.02.2023\Final_homework\programm\obj\Debug\net6.0\ref\programm.dll
